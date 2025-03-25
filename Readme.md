@@ -13,17 +13,21 @@ Ensure that the following libraries have aligned versions:
 - torchvision==0.16.1+cu118
 - torchaudio==0.16.1+cu118
 
-ii. Download stock data to **.\dataset\stock**  
+ii. Download stock data to ```.\dataset\stock_data```  
 
-market sentiment data to **.\dataset**
+market sentiment data to ```.\dataset```
 
 iii. Finally, ```python run.py``` 
 Don't forget to modify the number of input stocks and the number of features
 
 
 ## Dataset
+
+
 We provide stock data from two markets: ```CSI300``` and ```NASDAQ100```. After data preprocessing, 189 and 64 stocks remain respectively, along with corresponding market sentiment data: ```CHN_NEWS_sentiment.csv``` and ```USA_NEWS_sentiment.csv```.
 
 Download link: [https://pan.baidu.com/s/1shZ0xDFyGsf5a4h8JgMHxQ?pwd=6666]
+
+
 
 
