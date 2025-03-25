@@ -2,7 +2,8 @@
 
 GHOST: A hybrid stock prediction framework with sentiment-guided integration of Mamba selection layer and Stock-wise Tokens Layer, effectively solving computational complexity challenges while leveraging GDELT multimodal sentiment analysis to enhance prediction robustness during market volatility. Empirical evaluations on CSI300 and NASDAQ datasets show that the framework achieves superior performance in directional classification and risk-adjusted returns compared to existing models, providing reliable support for quantitative investment decisions.
 
-![78a56f0fd987460ea2f7523380ee1323_720](https://github.com/user-attachments/assets/b3922d38-574b-4deb-9c2e-e608bff5d7dc)
+![4b5926ae437889c612d4ca8ce0ad95bb_720](https://github.com/user-attachments/assets/8fc6a4ca-bab3-40e4-864d-a73295e3f67b)
+
 ## Usage
 i.   First, configure the environment according to the requirement.txt file
 
