@@ -15,7 +15,9 @@ Ensure that the following libraries have aligned versions:
 
 ii. Download stock data to .\dataset\stock and market sentiment data to .\dataset
 
-iii. Finally, run run.py
+iii. Finally, 
+
+python run.py
 
 ## Dataset
 
