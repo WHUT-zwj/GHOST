@@ -13,6 +13,10 @@ Ensure that the following libraries have aligned versions:
 - torchvision==0.16.1+cu118
 - torchaudio==0.16.1+cu118
 
+ii. Download stock data to .\dataset\stock and market sentiment data to .\dataset
+
+iii. Finally, run run.py
+
 ## Dataset
 
 
