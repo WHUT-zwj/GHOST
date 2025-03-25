@@ -22,8 +22,8 @@ Don't forget to modify the number of input stocks and the number of features
 
 
 ## Dataset
-我们给出了两个股票市场的股票数据分别是CSI300和NASDAQ100，经过数据预处理，分别剩下189只和64只股票；以及相应的市场情感数据：```CHN_NEWS_sentiment.csv```和```USA_NEWS_sentiment.csv```
-下载地址为 [https://pan.baidu.com/s/1shZ0xDFyGsf5a4h8JgMHxQ?pwd=6666] 
+We provide stock data from two markets: ```CSI300``` and ```NASDAQ100```. After data preprocessing, 189 and 64 stocks remain respectively, along with corresponding market sentiment data: ```CHN_NEWS_sentiment.csv``` and ```USA_NEWS_sentiment.csv```.
 
+Download link: [https://pan.baidu.com/s/1shZ0xDFyGsf5a4h8JgMHxQ?pwd=6666]
 
 
