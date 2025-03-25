@@ -6,8 +6,16 @@ GHOST: A hybrid stock prediction framework with sentiment-guided integration of 
 1首先根据requirement.text文件配置环境
 其中
 causal-conv1d==1.1.0
+
 mamba-ssm==1.1.1
 
+torch==2.1.1+cu118
+
+torchvision==0.16.1+cu118
+
+torchaudio==0.16.1+cu118
+
+要保证版本对齐
 
 ##Dataset
 
