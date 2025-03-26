@@ -30,7 +30,7 @@ Don't forget to modify the number of input stocks and the number of features
 We provide stock data from two markets: ```CSI300``` and ```NASDAQ100```. After data preprocessing, 189 and 64 stocks remain respectively, along with corresponding market sentiment data: ```CHN_NEWS_sentiment.csv``` and ```USA_NEWS_sentiment.csv```.
 
 🔥
-Download link: [https://pan.baidu.com/s/1shZ0xDFyGsf5a4h8JgMHxQ?pwd=6666]
+Download link: [Baidu](https://pan.baidu.com/s/1shZ0xDFyGsf5a4h8JgMHxQ?pwd=6666)
 
 
 
