@@ -37,5 +37,7 @@ The market sentiment information of China and the United States is time-step ali
 
 At the same time, you need to modify ```sentiment_path="your root"``` in ```.\data_provider\data_loader``` to adapt to the file path of sentiment data.Also, note that there are some differences in the feature engineering of NASDAQ100 and CSI300 stock data, so you need to modify the ```feature_columns``` in ```.\data_provider\data_loader```accordingly.
 
+🚀Finally, the complete code for market sentiment data will also be open-sourced in the future.
+
 
 
