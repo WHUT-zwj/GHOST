@@ -31,6 +31,7 @@ We provide stock data from two markets: ```CSI300``` and ```NASDAQ100```. After 
 
 🔥[Update opensource data]: [Baidu](https://pan.baidu.com/s/1shZ0xDFyGsf5a4h8JgMHxQ?pwd=6666)
 
+🔥[Update opensource data]:[OneDrive](https://1drv.ms/f/c/fe4981f5f2f28564/Ero14-xoBLpHjjc-pBlr19EBRlIDeEmjQ7laLJutptEKEQ?e=U0C70F)
 
 
 
