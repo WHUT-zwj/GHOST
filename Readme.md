@@ -33,5 +33,7 @@ We provide stock data from two markets: ```CSI300``` and ```NASDAQ100```. After 
 
 🔥[Update opensource data]:[OneDrive](https://1drv.ms/f/c/fe4981f5f2f28564/Ero14-xoBLpHjjc-pBlr19EBRlIDeEmjQ7laLJutptEKEQ?e=U0C70F)
 
+The market sentiment information of China and the United States is time-step aligned with the stock data of CSI300 and NASDAQ100 respectively. You can choose any connection to download the data.
+
 
 
