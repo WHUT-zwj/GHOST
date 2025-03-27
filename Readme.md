@@ -35,5 +35,7 @@ We provide stock data from two markets: ```CSI300``` and ```NASDAQ100```. After 
 
 The market sentiment information of China and the United States is time-step aligned with the stock data of CSI300 and NASDAQ100 respectively. You can choose any connection to download the data.
 
+At the same time, you need to modify ```sentiment_path="your root"``` in ```.\data_provider\data_loader``` to adapt to the file path of sentiment data.
+
 
 
