@@ -21,8 +21,10 @@ market sentiment data to ```.\dataset```
 
 iii. Finally, ```python run.py``` .
 
-Don't forget to modify the number of input stocks and the number of features
+💡💡💡 Don't forget to modify the number of input stocks and the number of features.Considering that ```mamba-ssm``` depends on a Linux environment, we used ```Ubuntu 22.04``` with ```miniconda``` as the basic environment. I have also placed the wheels of these two libraries in the corresponding links, hoping this will make the reproduction of this work more convenient and quick.
 
+❄
+❄
 
 ## Dataset
 
