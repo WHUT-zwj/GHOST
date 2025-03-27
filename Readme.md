@@ -23,8 +23,9 @@ iii. Finally, ```python run.py``` .
 
 💡💡💡 Don't forget to modify the number of input stocks and the number of features.Considering that ```mamba-ssm``` depends on a Linux environment, we used ```Ubuntu 22.04``` with ```miniconda``` as the basic environment. I have also placed the wheels of these two libraries in the corresponding links, hoping this will make the reproduction of this work more convenient and quick.
 
-❄
-❄
+❄[Update opensource wheel]:[Baidu](https://pan.baidu.com/s/1-X5RW5o1g5tKViWhtyLjvw?pwd=6666)
+
+❄[Update opensource wheel]:[OneDrive](https://1drv.ms/f/c/fe4981f5f2f28564/EquQIXHxFJFDtZgmVzLUpekB042TPyjfscZ6R4Vvk5BXbw?e=ZTFn9w)
 
 ## Dataset
 
