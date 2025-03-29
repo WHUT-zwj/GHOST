@@ -1,7 +1,7 @@
 # Readme
 
 👻GHOST: Gated Hybrid Organization with Sentiment-guided Temporal Mamba and Stock-wise Tokenization Attention, effectively solving computational complexity challenges while leveraging GDELT multimodal sentiment analysis to enhance prediction robustness during market volatility. 
-![4b5926ae437889c612d4ca8ce0ad95bb_720](https://github.com/user-attachments/assets/8fc6a4ca-bab3-40e4-864d-a73295e3f67b)
+![390e4f88383d90937a4b054ec4f5498f](https://github.com/user-attachments/assets/b7950514-926d-4674-bbc3-7226863d4470)
 Empirical evaluations on CSI300 and NASDAQ datasets show that the framework achieves superior performance in directional classification and risk-adjusted returns compared to existing models, providing reliable support for quantitative investment decisions.
 
 ## Usage
