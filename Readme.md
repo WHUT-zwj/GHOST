@@ -6,6 +6,10 @@
 
 #### Figure 1: Architecture of GHOST: Sentiment-Gated Mamba with Stock-wise Tokenization for Multi-Stock Prediction.
 ![390e4f88383d90937a4b054ec4f5498f](https://github.com/user-attachments/assets/b7950514-926d-4674-bbc3-7226863d4470)
+#### Figure 2: GDELT-based Sentiment Quantification
+![market sentiment](https://github.com/user-attachments/assets/45954747-4a10-4a9a-ab80-03de6f7f3807)
+#### Figure 3: Backtesting Pipeline
+![image](https://github.com/user-attachments/assets/72f83a98-de58-4503-945a-6eefe70e2211)
 
 ## Usage
 i.   First, configure the environment according to the requirement.txt file
