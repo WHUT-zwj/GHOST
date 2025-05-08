@@ -3,6 +3,9 @@
 ## Abstract
 
 ```Stock trend prediction faces significant challenges due to market sentiment influences, long-term dependencies, and time-varying stock correlation. Specifically, (1) Current sentiment analysis methods exhibit insufficient market sentiment quantification and lack dynamic adaptive integration mechanismsfor market fluctuations. (2) Transformer-based models’ quadratic complexity limits long-term stock prediction while lacking finance-specific temporal inductive biases. (3)Traditional temporal tokenization paradigms forcibly merge multi-stock features, weakening stock correlation modeling while dramatically increasing computational costs. To address these constraints, we present GHOST (Gated Hybrid Organization with Sentiment-guided Temporal Mamba and Stock-wise Tokenization Attention). In particular, we leverage GDELT(Global Database of Events, Language and Tone) sentiment quantification through a Hierarchical Sentiment-Gated Layer for dynamic fusion of affective features with trading data. Additionally, Intra-Stock Mamba Selection Layer achieves time-series linear complexity for long-term forecasting by combining a dynamically parameterized shared state space model to provide specialized financial inductive biases. Moreover, our Stock-wise Tokenization Layer converts temporal tokens into stock tokens while preserving data integrity, enabling Inter-Stock Attention Layer to capture stock correlation via attention between stock tokens and reducing attention computation complexity. Experimental results on real-world stock datasets demonstratethe effectiveness of our model```
+
+#### Figure 1: Architecture of GHOST: Sentiment-Gated Mamba with Stock-wise Tokenization
+for Multi-Stock Prediction.
 ![390e4f88383d90937a4b054ec4f5498f](https://github.com/user-attachments/assets/b7950514-926d-4674-bbc3-7226863d4470)
 
 ## Usage
