@@ -49,5 +49,5 @@ At the same time, you need to modify ```sentiment_path="your root"``` in ```.\da
 
 🚀Finally, the complete code for market sentiment data will also be open-sourced in the future.
 
-```Build by Weijie Zhu and [Jiangling Zhang](https://github.com/WHUT-ZJL)```
+```Build by Weijie Zhu and [Jiangling Zhang](https://github.com/WHUT-ZJL)``
 
