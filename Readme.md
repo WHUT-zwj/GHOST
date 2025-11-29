@@ -2,6 +2,17 @@
 
 ## News🎇This paper has  been accepted by ESWA
 
+```
+Weijie Zhu, Liang Xie, Hanyu Fu, Jiangling Zhang,
+GHOST: Sentiment-gated mamba and stock-wise tokenization attention for enhanced stock prediction,
+Expert Systems with Applications,
+Volume 301,
+2026,
+130474,
+ISSN 0957-4174,
+https://doi.org/10.1016/j.eswa.2025.130474.
+```
+
 https://doi.org/10.1016/j.eswa.2025.130474
 
 ## Abstract
